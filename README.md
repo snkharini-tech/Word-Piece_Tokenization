@@ -1,4 +1,4 @@
-# WordPiece Tokenization From Scratch
+# WordPiece Tokenization 
 
 ## Overview
 
